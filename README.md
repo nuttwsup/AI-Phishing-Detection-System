@@ -1,5 +1,5 @@
 # 🛡️ AI-Powered Phishing Website Detection System
-**Developed by:** [ชื่อของคุณ] | Computer Science Student (GPAX 4.00)
+**Developed by:** [Nutt Worrawalunup] | Computer Science Student (GPAX 4.00)
 
 ## 📌 Project Overview
 ระบบคัดแยกเว็บไซต์หลอกลวง (Phishing) โดยใช้ Machine Learning เพื่อเพิ่มความปลอดภัยในการใช้งานอินเทอร์เน็ต ระบบสามารถวิเคราะห์ปัจจัยทางเทคนิคของ URL และตัดสินใจความเสี่ยงได้โดยอัตโนมัติ
